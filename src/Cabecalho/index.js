@@ -47,7 +47,14 @@ input {
     color: #333333;
     opacity: 1;
   }
-}
+  button {
+    border: 0;
+    padding: 8px 12px;
+    color: #FFFFFF;
+    border-radius: 10000px;
+    background-color: #6F92BB;
+  }
+
 
 `
 
